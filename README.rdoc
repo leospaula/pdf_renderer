@@ -1,3 +1,5 @@
 = PdfRenderer
 
 This project rocks and uses MIT-LICENSE.
+
+Plugin to add pdf renderer
